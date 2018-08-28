@@ -48,6 +48,9 @@ label party:
     "Что бы послушать?..."
 
     menu:
+        "Psytrance":
+            play music "music/future club.mp3"
+
         "Metalcore":
             play music "music/future club.mp3"
 

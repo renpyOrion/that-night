@@ -1,20 +1,21 @@
-Tue Aug 28 10:28:11 2018
+Thu Aug 30 22:51:26 2018
 Darwin-17.7.0-x86_64-i386-64bit
 Ren'Py 7.0.0.196
  
 
 Bootstrap to the start of init.init took 0.07s
-Early init took 0.00s
+Early init took 0.01s
 Loader init took 0.01s
 Loading error handling took 0.02s
-Loading script took 0.07s
+Loading script took 0.14s
 Loading save slot metadata. took 0.01s
 Loading persistent took 0.00s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.06s
-Loading analysis data took 0.03s
+Running init code took 0.05s
+Loading analysis data took 0.04s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
+Backing up script files to '/Users/orion/Library/RenPy/backups/that-night':
 Dump and make backups. took 0.05s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
@@ -22,14 +23,14 @@ Initial gc. took 0.02s
 DPI scale factor: 1.000000
 Creating interface object took 0.12s
 Cleaning stores took 0.00s
-Init translation took 0.03s
-Build styles took 0.01s
-Load screen analysis took 0.02s
-Analyze screens took 0.00s
-Save screen analysis took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.06s
 Prepare screens took 0.06s
 Save pyanalysis. took 0.00s
-Save bytecode. took 0.00s
+Save bytecode. took 0.05s
 Running _start took 0.00s
 Performance test:
 Interface start took 0.02s
@@ -184,11 +185,18 @@ Texture testing:
 - 512px textures work.
 - 1024px textures work.
 - 2048px textures work.
-Total time until interface ready: 0.795892953873s
+Total time until interface ready: 0.980500936508s
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
-- Frame drawn at 0.014568 seconds.
-- Frame drawn at 0.026433 seconds.
-- Frame drawn at 0.043807 seconds.
-- Frame drawn at 0.062583 seconds.
-- 0.062583 seconds to render 5 frames.
+- Frame drawn at 0.017047 seconds.
+- Frame drawn at 0.027664 seconds.
+- Frame drawn at 0.046757 seconds.
+- Frame drawn at 0.062578 seconds.
+- 0.062578 seconds to render 5 frames.
+Cleaning stores took 0.00s
+Init translation took 0.15s
+Build styles took 0.01s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
